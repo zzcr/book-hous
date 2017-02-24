@@ -1,0 +1,156 @@
+.level2 {
+    position: relative;
+    z-index: 5001;
+}
+
+.m-catalist-big {
+    position: relative;
+    z-index: 5001;
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    font-size: 12px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.m-catalist-big .curbiglist {
+    padding: 0 15px;
+    display: block;
+    text-align: center;
+    color: #AAA;
+}
+
+.m-catalist-big .curbiglist i {
+    display: inline-block;
+    margin-left: 4px;
+    width: 9px;
+    height: 6px;
+    background-size: 100% 100%;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+.m-catalist-big .curbiglist .icon-down {
+    background-image: url(/assets/mobile/images/book-catalist/arrow-down-grey.png?54863b72);
+}
+
+.m-catalist-big .curbiglist .icon-up {
+    background-image: url(/assets/mobile/images/book-catalist/arrow-up-grey.png?f6f9aa53);
+}
+
+.m-catalist-big .list {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 13px 15px 0;
+    background-color: #FAF7F5;
+    font-size: 14px;
+    position: absolute;
+    top: 36px;
+    left: 0;
+    overflow: hidden;
+}
+
+.m-catalist-big .list ul {
+    padding-bottom: 13px;
+    position: relative;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+.m-catalist-big li {
+    box-sizing: border-box;
+    width: 30%;
+    height: 32px;
+    line-height: 32px;
+    float: left;
+    margin-right: 4%;
+    margin-bottom: 13px;
+    color: #998D80;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #D1CCC7;
+}
+
+.m-catalist-big li.last {
+    margin-right: 0;
+}
+
+.m-catalist-big li.crt {
+    background-color: #D1CFCD;
+    color: #FFF;
+}
+
+.m-catalist-detail {
+    position: relative;
+    z-index: 99;
+    background-color: #FAF7F5;
+}
+
+.m-catalist-detail li {
+    position: relative;
+    box-sizing: border-box;
+    padding: 0 15px;
+    height: 46px;
+    line-height: 46px;
+    border-bottom: 1px dotted #998D80;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.m-catalist-detail li.grade_02 {
+    text-indent: 2em;
+}
+
+.m-catalist-detail li.grade_03 {
+    text-indent: 4em;
+}
+
+.m-catalist-detail li.grade_04 {
+    text-indent: 6em;
+}
+
+.m-catalist-detail li a {
+    font-size: 14px;
+    color: #1D2C33;
+    display: block;
+}
+
+.m-catalist-detail li.dis a {
+    color: #998E81;
+}
+
+.m-catalist-detail li.dis i {
+    width: 11px;
+    height: 14px;
+    position: absolute;
+    top: 16px;
+    right: 15px;
+    background: url(/assets/mobile/images/book-detail/icon-dispaid.png?e5fb30a2) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+
+.m-catalist-detail li:last-child {
+    border: none;
+}
+
+.m-catalist-detail .page {
+    padding: 14px 15px 15px;
+}
+
+.m-catalist-detail .page a {
+    width: 46%;
+}
+
+.m-catalist-detail .page a:first-child {
+    float: left;
+}
+
+.m-catalist-detail .page a:last-child {
+    float: right;
+}

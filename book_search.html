@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>搜索-网易云阅读</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link type="text/css" rel="stylesheet" href="css/mobi_base.css">
+    <link type="text/css" rel="stylesheet" href="css/mobi_book_search.css">
+</head>
+
+<body>
+    <div class="g-wrap  g-wrap-1">
+        <header class="level2 j-fixedbar">
+            <div class="title f-cb">
+                <section class="m-search-book">
+                    <a class="left"><span class="ui-leftaw-2"></span></a>
+                    <div class="search-input">
+                        <form id="J_Form" class="f-cb" action="http://m.yuedu.163.com/search/book.do" method="get">
+                            <div class="inner f-cb f-fl">
+                                <button>搜索</button>
+                                <input type="search" id="search-input" name="key" autocomplete="off" placeholder="大地产商">
+                                <input type="hidden" name="type" value="detail">
+                                <input type="hidden" id="J_defaultHint">
+                            </div>
+                            <a class="f-fl home">首页</a>
+                        </form>
+                    </div>
+                    <ul id="J_SearchOps" style="display: none;"></ul>
+                </section>
+            </div>
+        </header>
+        <section class="m-search-key" id="J_content">
+            <dl class="m-hotkey">
+                <dt>大家都在搜</dt>
+                <dd>
+                    <a><em class="hot"></em>未来简史</a>
+                    <a><em class="hot"></em>大秦帝国</a>
+                    <a><em class="hot"></em>大明王朝</a>
+                    <a><em class="hot"></em>月关</a>
+                    <a><em class="hot"></em>天使奥斯卡</a>
+                    <a><em class="hot"></em>大明王朝1566</a>
+                    <a><em class="hot"></em>唐七</a>
+                    <a><em class="hot"></em>大唐后妃传</a>
+                    <a><em class="hot"></em>三生三世十里桃花</a>
+                    <a><em class="hot"></em>当呼吸化为空气</a>
+                </dd>
+            </dl>
+            <dl class="m-historykey">
+                <dt>最近搜索<span class="clear" id="clearHistory"></span></dt>
+                <dd id="searchHistory">
+                    <a>大唐后妃传</a><a>大秦帝国</a><a>大地产商</a><a>盗墓笔记</a></dd>
+            </dl>
+        </section>
+        <div id="J_GoTop" class="m-gotop" style="display:none;"></div>
+    </div>
+</body>
+
+</html>

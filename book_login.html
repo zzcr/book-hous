@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>登录-网易云阅读</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link type="text/css" rel="stylesheet" href="css/mobi_base.css">
+    <link type="text/css" rel="stylesheet" href="css/mobi_login_v2.7.css">
+</head>
+
+<body>
+    <div class="g-wrap ">
+        <div class="m-login-container">
+            <input type="hidden" id="csrf_token" name="csrf_token">
+            <input type="hidden" id="backUrl" name="backUrl">
+            <div class="m-login-header">
+                <a class="left back" id="goBack"></a>
+                <span class="title">手机号快速登录</span>
+                <a class="right">首页</a>
+            </div>
+            <div class="m-login-content">
+                <div class="getCode-block">
+                    <input type="number" pattern="\d*" placeholder="输入手机号" class="u-input phone-number">
+                    <i class="clear-icon" style="display: none;"></i>
+                    <a id="getCode" class="u-button disable">获取验证码</a>
+                </div>
+                <div class="writeCode-block" style="display: none;">
+                    <div class="phone-display">手机号：<span class="phone-number-span"></span></div>
+                    <input type="tel" class="code-input" maxlength="6" pattern="\d*" autocomplete="off">
+                    <ul class="code-display">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li class="last"></li>
+                    </ul>
+                    <a class="u-button disable">重新获取验证码 <span id="codeTimer">60</span></a>
+                </div>
+                <div class="setPassword-block" style="display: none;">
+                    <input type="password" placeholder="6-16位密码，区分大小写" class="u-input password">
+                    <i class="show-icon"></i>
+                    <a class="u-button disable">确认密码</a>
+                </div>
+            </div>
+            <div class="m-login-switch">
+                <div class="line-title">
+                    <h4>
+                        以下帐号直接登录
+                    </h4>
+                </div>
+                <ul class="f-cb">
+                    <li class="mail">
+                        <a><span></span>网易邮箱</a>
+                    </li>
+                    <li class="weibo">
+                        <a><span></span>新浪微博</a>
+                    </li>
+                    <li class="tx-weibo">
+                        <a><span></span>腾讯微博</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="m-tip" style="opacity: 0; display: none;"></div>
+        <div class="m-loading-mask" style="display:none;">
+            <div class="loading-bg">
+                <i class="loading-icon"></i>
+            </div>
+        </div>
+        <div id="J_GoTop" class="m-gotop" style="display:none;"></div>
+    </div>
+    <footer>
+        <nav>
+            <a>客户端</a>
+            <a>帮助</a>
+            <a>反馈</a>
+            <a class="cur ">触屏版</a>
+            <a>电脑版</a>
+        </nav>
+        <div class="m-right "><p>网易公司版权所有©1997-<span id="J_Copyright ">2017</span></p></div>
+    </footer>
+</body>
+
+</html>
