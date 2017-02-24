@@ -86,7 +86,7 @@
     width: 40px;
     height: 40px;
     text-indent: -10000px;
-    background: url(/assets/mobile/js/gmu/css/ui-loading.png?8de7983a) 0 0 no-repeat;
+    background: url(../images/ui-loading.png?8de7983a) 0 0 no-repeat;
     -webkit-background-size: 40px 40px;
     -webkit-animation-name: ui-loading-anim;
     -webkit-animation-duration: 1s;
@@ -331,7 +331,7 @@ section.ranknav nav a {
     display: inline-block;
     width: 4px;
     height: 7px;
-    background: url(/assets/mobile/images/arrow-right-b0.png?b38ee2de) 0 0;
+    background: url(../images/arrow-right-b0.png?b38ee2de) 0 0;
     background-size: 100% 100%;
 }
 
@@ -446,12 +446,12 @@ section.ranknav nav a {
 }
 
 .m-acinfo h2 .gender-m {
-    background: url(/assets/mobile/images/icon-male.png?9d9a7c56) 0 0 no-repeat;
+    background: url(../images/icon-male.png?9d9a7c56) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-acinfo h2 .gender-f {
-    background: url(/assets/mobile/images/icon-female.png?0a402bae) 0 0 no-repeat;
+    background: url(../images/icon-female.png?0a402bae) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -574,13 +574,13 @@ section.ranknav nav a {
 
 .m-acmore .group p .fr i.hongbao-1 {
     width: 96px;
-    background: url(/assets/mobile/images/recharge-hongbao1.png?a466c284) 0 0;
+    background: url(../images/recharge-hongbao1.png?a466c284) 0 0;
     background-size: 100% 100%;
 }
 
 .m-acmore .group p .fr i.hongbao-2 {
     width: 56px;
-    background: url(/assets/mobile/images/recharge-hongbao2.png?fa2e4ae2) 0 0;
+    background: url(../images/recharge-hongbao2.png?fa2e4ae2) 0 0;
     background-size: 100% 100%;
 }
 
@@ -661,7 +661,7 @@ section.ranknav nav a {
     margin: 20px 10px 0 0;
     width: 10px;
     height: 7px;
-    background: url(/assets/mobile/images/down-arrow.png?219323d0) 0 0;
+    background: url(../images/down-arrow.png?219323d0) 0 0;
     background-size: 100% 100%;
 }
 
@@ -987,7 +987,7 @@ section.ranknav nav a {
     display: block;
     width: 52px;
     height: 52px;
-    background: url(/assets/mobile/images/icon-close.png?02ac25dc) center center no-repeat;
+    background: url(../images/icon-close.png?02ac25dc) center center no-repeat;
     background-size: 12px 12px;
 }
 
@@ -1062,7 +1062,7 @@ section.ranknav nav a {
     width: 10px;
     height: 7px;
     margin: 0 0 0 5px;
-    background: url(/assets/mobile/images/down-arrow.png?219323d0) 0 0 no-repeat #fff;
+    background: url(../images/down-arrow.png?219323d0) 0 0 no-repeat #fff;
     background-size: 100% 100%;
 }
 
@@ -1403,12 +1403,12 @@ section.ranknav nav a {
     position: absolute;
     top: 10px;
     left: 12px;
-    background: url(/assets/mobile/images/ev-1.png?07981fd7) 0 0 no-repeat;
+    background: url(../images/ev-1.png?07981fd7) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-bonusinfo h5 .hb-1 {
-    background: url(/assets/mobile/images/ev-2.png?183191db) 0 0 no-repeat;
+    background: url(../images/ev-2.png?183191db) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -1418,12 +1418,12 @@ section.ranknav nav a {
     position: absolute;
     top: 10px;
     left: 12px;
-    background: url(/assets/mobile/images/tk-1.png?e37b0b02) 0 0 no-repeat;
+    background: url(../images/tk-1.png?e37b0b02) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-bonusinfo h5 .quan-1 {
-    background: url(/assets/mobile/images/tk-2.png?f0393089) 0 0 no-repeat;
+    background: url(../images/tk-2.png?f0393089) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -1569,7 +1569,7 @@ section.ranknav nav a {
     right: 0;
     width: 9px;
     height: 6px;
-    background: url(/assets/mobile/images/book-detail/arrow-down.png?b7dfb88c) 0 0 no-repeat;
+    background: url(../images/arrow-down.png?b7dfb88c) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -1789,11 +1789,11 @@ section.ranknav nav a {
 }
 
 .m-booklist td.ops span.on {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 0;
+    background: url(../images/ticks_new.png?828646e5) 0 0;
 }
 
 .m-booklist td.ops span.off {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 -30px;
+    background: url(../images/ticks_new.png?828646e5) 0 -30px;
 }
 
 .m-booklist .selectall span {
@@ -1805,11 +1805,11 @@ section.ranknav nav a {
 }
 
 .m-booklist .selectall span.on {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 -60px;
+    background: url(../images/ticks_new.png?828646e5) 0 -60px;
 }
 
 .m-booklist .selectall span.off {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 -84px;
+    background: url(../images/ticks_new.png?828646e5) 0 -84px;
 }
 
 .m-booklist .delbtn {
@@ -2038,7 +2038,7 @@ section.ranknav nav a {
     margin: 0 5px 0 0;
     width: 14px;
     height: 10px;
-    background: url(/assets/mobile/images/ev-3.png?e5308f13) 0 0 no-repeat;
+    background: url(../images/ev-3.png?e5308f13) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -2269,12 +2269,12 @@ section.ranknav nav a {
 }
 
 .m-sum-order p.credit b.true {
-    background: url(/assets/mobile/images/tick-1.png?0ead6f1f) 0 0 no-repeat;
+    background: url(../images/tick-1.png?0ead6f1f) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-sum-order p.credit b.false {
-    background: url(/assets/mobile/images/tick-2.png?76ad3244) 0 0 no-repeat;
+    background: url(../images/tick-2.png?76ad3244) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -2305,7 +2305,7 @@ section.ranknav nav a {
     right: 0;
     width: 36px;
     height: 36px;
-    background: url(/assets/mobile/images/icon-cx.png?bd81b691) 0 0 no-repeat;
+    background: url(../images/icon-cx.png?bd81b691) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -2315,7 +2315,7 @@ section.ranknav nav a {
     right: 0;
     width: 36px;
     height: 36px;
-    background: url(/assets/mobile/images/icon-free.png?589f6fb7) 0 0 no-repeat;
+    background: url(../images/icon-free.png?589f6fb7) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -3059,7 +3059,7 @@ ul.m-balance li.crt {
     width: 10px;
     height: 7px;
     margin: 0 0 0 2px;
-    background: url(/assets/mobile/images/down-arrow-b.png?e5676e8d);
+    background: url(../images/down-arrow-b.png?e5676e8d);
     background-size: 10px;
 }
 
@@ -3147,7 +3147,7 @@ ul.m-balance li.crt {
     height: 25px;
     float: left;
     margin: 11px 6px 10px 0;
-    background: url(/assets/mobile/images/tick.jpg?0f00e6cb) 0 0;
+    background: url(../images/tick.jpg?0f00e6cb) 0 0;
     background-size: 100% 100%;
 }
 
@@ -3291,7 +3291,7 @@ ul.m-balance li.crt {
     width: 35px;
     height: 54px;
     margin: 0 20px;
-    background: url(/assets/mobile/images/icon04.jpg?d5e24b1a) 0 0;
+    background: url(../images/icon04.jpg?d5e24b1a) 0 0;
     background-size: 100% 100%;
 }
 
@@ -3334,7 +3334,7 @@ ul.m-balance li.crt {
     width: 285px;
     margin: 0 auto;
     height: 472px;
-    background: url(/assets/mobile/images/iphonesuc.jpg?5e0295cc) 0 0;
+    background: url(../images/iphonesuc.jpg?5e0295cc) 0 0;
 }
 
 .m-booked .bookele {
@@ -3401,7 +3401,7 @@ ul.m-balance li.crt {
     height: 25px;
     float: left;
     margin: 0 7px 0 5px;
-    background: url(/assets/mobile/images/alert.png?2bc97b46) 0 0;
+    background: url(../images/alert.png?2bc97b46) 0 0;
     background-size: 100% 100%;
 }
 
@@ -3568,33 +3568,33 @@ ul.m-balance li.crt {
 }
 
 .m-buybooklist .icon-arrow-down {
-    background: url(/assets/mobile/images/arrows.png?91f9b610) 0 0 no-repeat;
+    background: url(../images/arrows.png?91f9b610) 0 0 no-repeat;
     top: 17px;
     left: 30px;
 }
 
 .m-buybooklist .icon-arrow-right {
-    background: url(/assets/mobile/images/arrows.png?91f9b610) 0 -21px no-repeat;
+    background: url(../images/arrows.png?91f9b610) 0 -21px no-repeat;
     top: 14px;
     left: 32px;
 }
 
 .m-buybooklist .icon-openmenu {
-    background: url(/assets/mobile/images/openmenu.png?4666cb58) 0 0 no-repeat;
+    background: url(../images/openmenu.png?4666cb58) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-buybooklist .icon-closemenu {
-    background: url(/assets/mobile/images/closemenu.png?a53c71e9) 0 0 no-repeat;
+    background: url(../images/closemenu.png?a53c71e9) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-buybooklist td.ops span.on {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 0;
+    background: url(../images/ticks_new.png?828646e5) 0 0;
 }
 
 .m-buybooklist td.ops span.off {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 -18px;
+    background: url(../images/ticks_new.png?828646e5) 0 -18px;
 }
 
 .m-buybooklist td .btn {
@@ -3622,11 +3622,11 @@ ul.m-balance li.crt {
 }
 
 .m-buybooklist .selectall .tick.on {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 0;
+    background: url(../images/ticks_new.png?828646e5) 0 0;
 }
 
 .m-buybooklist .selectall .tick.off {
-    background: url(/assets/mobile/images/ticks_new.png?828646e5) 0 -18px;
+    background: url(../images/ticks_new.png?828646e5) 0 -18px;
 }
 
 .m-buybooklist .hongbao {
@@ -3898,12 +3898,12 @@ ul.m-balance li.crt {
 }
 
 .m-buychapterlist .selectall .tick.on {
-    background: url(/assets/mobile/images/tick-large-1.png?be7aad18) 0 0 no-repeat;
+    background: url(../images/tick-large-1.png?be7aad18) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-buychapterlist .selectall .tick.off {
-    background: url(/assets/mobile/images/tick-large-2.png?1e96cec7) 0 0 no-repeat;
+    background: url(../images/tick-large-2.png?1e96cec7) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -3918,12 +3918,12 @@ ul.m-balance li.crt {
 }
 
 .m-buychapterlist td.ops span.on {
-    background: url(/assets/mobile/images/tick-large-1.png?be7aad18) 0 0 no-repeat;
+    background: url(../images/tick-large-1.png?be7aad18) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-buychapterlist td.ops span.off {
-    background: url(/assets/mobile/images/tick-large-2.png?1e96cec7) 0 0 no-repeat;
+    background: url(../images/tick-large-2.png?1e96cec7) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -4008,28 +4008,28 @@ ul.m-balance li.crt {
 .g-doc-i .m-sec-1 {
     width: 320px;
     height: 200px;
-    background: url(/assets/mobile/images/mimg/DLiPhone640_01.jpg?d5bb416a) 0 0 no-repeat;
+    background: url(../images/mimg/DLiPhone640_01.jpg?d5bb416a) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-i .m-sec-2 {
     width: 320px;
     height: 296px;
-    background: url(/assets/mobile/images/mimg/DLiPhone640_02.jpg?e5337f8f) 0 0 no-repeat;
+    background: url(../images/mimg/DLiPhone640_02.jpg?e5337f8f) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-i .m-sec-3 {
     width: 320px;
     height: 324px;
-    background: url(/assets/mobile/images/mimg/DLiPhone640_03.jpg?1cbacc9c) 0 0 no-repeat;
+    background: url(../images/mimg/DLiPhone640_03.jpg?1cbacc9c) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-i .m-sec-6 {
     width: 320px;
     height: 218px;
-    background: url(/assets/mobile/images/mimg/DLiPhone640_06.jpg?1b72e2a3) 0 0 no-repeat;
+    background: url(../images/mimg/DLiPhone640_06.jpg?1b72e2a3) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -4058,7 +4058,7 @@ ul.m-balance li.crt {
 }
 
 .g-doc-a {
-    background: url(/assets/mobile/images/mimg/grabg.png?7d0e1a32) 0 0 repeat-x #fff;
+    background: url(../images/mimg/grabg.png?7d0e1a32) 0 0 repeat-x #fff;
 }
 
 .g-doc-a .m-sec {
@@ -4125,25 +4125,25 @@ ul.m-balance li.crt {
 
 .g-doc-a .m-sec-1 {
     height: 200px;
-    background: url(/assets/mobile/images/mimg/DLAndroid_01.jpg?c0d2af73) 0 0 no-repeat;
+    background: url(../images/mimg/DLAndroid_01.jpg?c0d2af73) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-a .m-sec-2 {
     height: 300px;
-    background: url(/assets/mobile/images/mimg/DLAndroid_02.jpg?3f7ff493) 0 0 no-repeat;
+    background: url(../images/mimg/DLAndroid_02.jpg?3f7ff493) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-a .m-sec-3 {
     height: 315px;
-    background: url(/assets/mobile/images/mimg/DLAndroid_03.jpg?df5d217f) 0 0 no-repeat;
+    background: url(../images/mimg/DLAndroid_03.jpg?df5d217f) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .g-doc-a .m-sec-6 {
     height: 243px;
-    background: url(/assets/mobile/images/mimg/DLAndroid_06.jpg?ca01dd6a) 0 0 no-repeat;
+    background: url(../images/mimg/DLAndroid_06.jpg?ca01dd6a) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -4255,37 +4255,37 @@ ul.m-balance li.crt {
 
 .g-doc-w .m-sec-1 {
     height: 185px;
-    background: url(/assets/mobile/images/mimg/DLWP7_01_320.jpg?0a32a948) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_01_320.jpg?0a32a948) 0 0 no-repeat;
 }
 
 .g-doc-w .m-sec-2 {
     height: 333px;
-    background: url(/assets/mobile/images/mimg/DLWP7_02_320.jpg?7e02debe) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_02_320.jpg?7e02debe) 0 0 no-repeat;
 }
 
 .g-doc-w .m-sec-3 {
     height: 277px;
-    background: url(/assets/mobile/images/mimg/DLWP7_03_320.jpg?971c5b33) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_03_320.jpg?971c5b33) 0 0 no-repeat;
 }
 
 .g-doc-w .m-sec-4 {
     height: 257px;
-    background: url(/assets/mobile/images/mimg/DLWP7_04_320.jpg?79489d68) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_04_320.jpg?79489d68) 0 0 no-repeat;
 }
 
 .g-doc-w .m-sec-5 {
     height: 315px;
-    background: url(/assets/mobile/images/mimg/DLWP7_05_320.jpg?55c8e172) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_05_320.jpg?55c8e172) 0 0 no-repeat;
 }
 
 .g-doc-w .m-sec-6 {
     height: 237px;
-    background: url(/assets/mobile/images/mimg/DLWP7_06_320.jpg?efe35fbb) 0 0 no-repeat;
+    background: url(../images/mimg/DLWP7_06_320.jpg?efe35fbb) 0 0 no-repeat;
 }
 
 .m-login h2.wyicon i,
 .m-login h2.sjicon i {
-    background: url(/assets/mobile/images/icon-pay.png?73bb3cd5) no-repeat 9999px 9999px;
+    background: url(../images/icon-pay.png?73bb3cd5) no-repeat 9999px 9999px;
 }
 
 .m-login {
@@ -4438,7 +4438,7 @@ ul.m-balance li.crt {
     height: 30px;
     top: 5px;
     right: 5px;
-    background: url(/assets/mobile/images/input-close.png?9753ebe9) 0 0;
+    background: url(../images/input-close.png?9753ebe9) 0 0;
     background-size: 30px;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -4501,7 +4501,7 @@ ul.m-balance li.crt {
     width: 50px;
     height: 50px;
     margin-bottom: 8px;
-    background: url(/assets/mobile/images/icon-login.png?37d4079e) no-repeat 9999px 9999px;
+    background: url(../images/icon-login.png?37d4079e) no-repeat 9999px 9999px;
     background-size: 50px;
 }
 
@@ -5109,7 +5109,7 @@ ul.m-balance li.crt {
 .m-bottom-style1 .img-area {
     width: 113px;
     height: 30px;
-    background: url(/assets/mobile/images/bottom-meet.png?d4da3d0e);
+    background: url(../images/bottom-meet.png?d4da3d0e);
     background-size: 113px 30px;
 }
 
@@ -5119,19 +5119,19 @@ ul.m-balance li.crt {
 }
 
 .m-bottom-style1 .close {
-    background: url(/assets/mobile/images/red-close.png?4b411be2) center center no-repeat;
+    background: url(../images/red-close.png?4b411be2) center center no-repeat;
     background-size: 14px 14px;
 }
 
 .m-bottom-style2 {
-    background: url(/assets/mobile/images/bottom-noon-bg.jpg?112f43a4) no-repeat;
+    background: url(../images/bottom-noon-bg.jpg?112f43a4) no-repeat;
     background-size: 100% 52px;
 }
 
 .m-bottom-style2 .img-area {
     width: 182px;
     height: 31px;
-    background: url(/assets/mobile/images/bottom-noon.png?48922e86);
+    background: url(../images/bottom-noon.png?48922e86);
     background-size: 182px 31px;
 }
 
@@ -5141,19 +5141,19 @@ ul.m-balance li.crt {
 }
 
 .m-bottom-style2 .close {
-    background: url(/assets/mobile/images/red-close.png?4b411be2) center center no-repeat;
+    background: url(../images/red-close.png?4b411be2) center center no-repeat;
     background-size: 14px 14px;
 }
 
 .m-bottom-style3 {
-    background: url(/assets/mobile/images/bottom-soul-bg.jpg?0895eee1) no-repeat;
+    background: url(../images/bottom-soul-bg.jpg?0895eee1) no-repeat;
     background-size: 100% 52px;
 }
 
 .m-bottom-style3 .img-area {
     width: 171px;
     height: 30px;
-    background: url(/assets/mobile/images/bottom-soul.png?d23a700e);
+    background: url(../images/bottom-soul.png?d23a700e);
     background-size: 171px 30px;
 }
 
@@ -5163,19 +5163,19 @@ ul.m-balance li.crt {
 }
 
 .m-bottom-style3 .close {
-    background: url(/assets/mobile/images/white-close.png?4b8b7ed9) center center no-repeat;
+    background: url(../images/white-close.png?4b8b7ed9) center center no-repeat;
     background-size: 13px 13px;
 }
 
 .m-top-img1 {
-    background: #e3d5c8 url(/assets/mobile/images/download-img/bg1.png?31df47a8) top center no-repeat;
+    background: #e3d5c8 url(../images/download-img/bg1.png?31df47a8) top center no-repeat;
     height: 75px;
     border-bottom: 1px solid #b09c8f;
     background-size: 100%;
 }
 
 .m-top-img1 .img-area {
-    background: url(/assets/mobile/images/download-img/t1.png?56411173) top center no-repeat;
+    background: url(../images/download-img/t1.png?56411173) top center no-repeat;
     height: 75px;
     width: 128px;
     background-size: 100%;
@@ -5195,19 +5195,19 @@ ul.m-balance li.crt {
 }
 
 .m-top-img1 .close {
-    background: url(/assets/mobile/images/download-img/close-1.png?2555df23) top center no-repeat;
+    background: url(../images/download-img/close-1.png?2555df23) top center no-repeat;
     background-size: 100%;
 }
 
 .m-top-img2 {
-    background: #81494a url(/assets/mobile/images/download-img/bg4.jpg?87c0209c) top center no-repeat;
+    background: #81494a url(../images/download-img/bg4.jpg?87c0209c) top center no-repeat;
     height: 51px;
     border-bottom: 1px solid #6b3e30;
     background-size: 100%;
 }
 
 .m-top-img2 .img-area {
-    background: url(/assets/mobile/images/download-img/t4.png?1d4adf1d) top center no-repeat;
+    background: url(../images/download-img/t4.png?1d4adf1d) top center no-repeat;
     height: 51px;
     width: 200px;
     background-size: 100%;
@@ -5227,19 +5227,19 @@ ul.m-balance li.crt {
 }
 
 .m-top-img2 .close {
-    background: url(/assets/mobile/images/download-img/close-4.png?40474575) top center no-repeat;
+    background: url(../images/download-img/close-4.png?40474575) top center no-repeat;
     background-size: 100%;
 }
 
 .m-top-img3 {
-    background: #477aaa url(/assets/mobile/images/download-img/bg5.jpg?097eefab) top center no-repeat;
+    background: #477aaa url(../images/download-img/bg5.jpg?097eefab) top center no-repeat;
     height: 64px;
     border-bottom: 1px solid #909da4;
     background-size: 100%;
 }
 
 .m-top-img3 .img-area {
-    background: url(/assets/mobile/images/download-img/t5.png?28e59f91) top center no-repeat;
+    background: url(../images/download-img/t5.png?28e59f91) top center no-repeat;
     width: 191px;
     height: 64px;
     background-size: 100%;
@@ -5259,7 +5259,7 @@ ul.m-balance li.crt {
 }
 
 .m-top-img3 .close {
-    background: url(/assets/mobile/images/download-img/close-5.png?d93d0808) top center no-repeat;
+    background: url(../images/download-img/close-5.png?d93d0808) top center no-repeat;
     background-size: 100%;
 }
 
@@ -5281,7 +5281,7 @@ ul.m-balance li.crt {
 .m-top .logo {
     width: 30px;
     height: 30px;
-    background: url(/assets/mobile/images/logo60.png?fad1af10) center center no-repeat;
+    background: url(../images/logo60.png?fad1af10) center center no-repeat;
     float: left;
     background-size: 100% 100%;
 }
@@ -5295,12 +5295,12 @@ ul.m-balance li.crt {
 }
 
 .m-top .text.android {
-    background: url(/assets/mobile/images/text-android.png?b228c836) center center no-repeat;
+    background: url(../images/text-android.png?b228c836) center center no-repeat;
     background-size: 100% 100%;
 }
 
 .m-top .text.iphone {
-    background: url(/assets/mobile/images/text-iphone.png?e54d120c) center center no-repeat;
+    background: url(../images/text-iphone.png?e54d120c) center center no-repeat;
     background-size: 100% 100%;
 }
 
@@ -5358,7 +5358,7 @@ ul.m-balance li.crt {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url(/assets/mobile/images/new-download2.png?c598a6c3) left top no-repeat;
+    background: url(../images/new-download2.png?c598a6c3) left top no-repeat;
     background-size: 100% 100%;
     vertical-align: middle;
     margin-right: 10px;
@@ -5393,7 +5393,7 @@ ul.m-balance li.crt {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: url(/assets/mobile/images/new-download.png?d072e2b7) left top no-repeat;
+    background: url(../images/new-download.png?d072e2b7) left top no-repeat;
     background-size: 15px 15px;
     vertical-align: middle;
     margin-right: 6px;
@@ -5406,13 +5406,13 @@ ul.m-balance li.crt {
     display: block;
     width: 60px;
     height: 30px;
-    background: url(/assets/mobile/images/download-down.png?13ca4bf9) left top no-repeat;
+    background: url(../images/download-down.png?13ca4bf9) left top no-repeat;
     background-size: 100% 100%;
     text-indent: -9999px;
 }
 
 .m-top .download-btn.open {
-    background-image: url(/assets/mobile/images/download-open.png?bb778c7a);
+    background-image: url(../images/download-open.png?bb778c7a);
 }
 
 .m-top .close {
@@ -5422,7 +5422,7 @@ ul.m-balance li.crt {
     display: block;
     width: 14px;
     height: 14px;
-    background: url(/assets/mobile/images/close.png?ad844fbc) left top no-repeat;
+    background: url(../images/close.png?ad844fbc) left top no-repeat;
     background-size: 100% 100%;
     text-indent: -9999px;
 }
@@ -5436,7 +5436,7 @@ ul.m-balance li.crt {
     padding-left: 11px;
     font-size: 16px;
     font-weight: normal;
-    background: url(/assets/mobile/images/title_sign@2x.png?2c572358)left center no-repeat;
+    background: url(../images/title_sign@2x.png?2c572358)left center no-repeat;
     background-size: 3px 15px;
 }
 
@@ -5476,7 +5476,7 @@ ul.m-balance li.crt {
 .m-rmdsource .item .txt .timer span:last-child {
     font-size: 10px;
     margin-left: 10px;
-    background: url(/assets/mobile/images/eye_grey@2x.png?66f8c098) left center no-repeat;
+    background: url(../images/eye_grey@2x.png?66f8c098) left center no-repeat;
     background-size: 13px 8px;
     padding-left: 18px;
 }
@@ -5585,7 +5585,7 @@ ul.m-balance li.crt {
 }
 
 .w-star span {
-    background: url(/assets/mobile/images/icon06.png?5a7d81c3) no-repeat 9999px 9999px;
+    background: url(../images/icon06.png?5a7d81c3) no-repeat 9999px 9999px;
 }
 
 .w-star,
@@ -5762,7 +5762,7 @@ ul.m-list li p.cmt {
     display: inline-block;
     width: 24px;
     height: 24px;
-    background: url(/assets/mobile/images/weixin-modal-close.png?118e0a83) center center no-repeat;
+    background: url(../images/weixin-modal-close.png?118e0a83) center center no-repeat;
     background-size: 24px 24px;
 }
 
@@ -5906,7 +5906,7 @@ ul.m-list li p.cmt {
 }
 
 .m-sharefreelist .introduce {
-    background: url(/assets/mobile/images/share-list-bg.png?73eea818) 0 0 repeat;
+    background: url(../images/share-list-bg.png?73eea818) 0 0 repeat;
     background-color: #ccc;
     border: 1px solid #dbdbdb;
 }
@@ -5997,7 +5997,7 @@ ul.m-list li p.cmt {
 
 .m-sharefreedetail .ui-leftaw {
     margin-top: -3px;
-    background-image: url(/assets/mobile/images/arrow-left-white.png?1b2dfff1);
+    background-image: url(../images/arrow-left-white.png?1b2dfff1);
     vertical-align: middle;
     font-size: 14px;
 }
@@ -6087,7 +6087,7 @@ ul.m-list li p.cmt {
     height: 120px;
     background-color: #f9f9f9;
     border-radius: 0 0 8px 8px;
-    background: #f9f9f9 url(/assets/mobile/images/opentip.png?40cd41b3) 100% 4px no-repeat;
+    background: #f9f9f9 url(../images/opentip.png?40cd41b3) 100% 4px no-repeat;
     background-size: 127px auto;
 }
 
@@ -6116,7 +6116,7 @@ ul.m-list li p.cmt {
     position: absolute;
     width: 250px;
     padding: 10px 0;
-    background: url(/assets/mobile/images/tmp-hongbao.jpg?54a06ce6) 0 10px no-repeat #fff;
+    background: url(../images/tmp-hongbao.jpg?54a06ce6) 0 10px no-repeat #fff;
     background-size: 250px;
 }
 
@@ -6135,7 +6135,7 @@ ul.m-list li p.cmt {
     left: 65px;
     width: 29px;
     height: 38px;
-    background: url(/assets/mobile/images/icon-hb.jpg?1c458aea) 0 0 no-repeat;
+    background: url(../images/icon-hb.jpg?1c458aea) 0 0 no-repeat;
     background-size: 29px;
 }
 
@@ -6291,7 +6291,7 @@ ul.m-list li p.cmt {
 .m-numberform p.t2 {
     top: 37px;
     padding-left: 19px;
-    background: url(/assets/mobile/images/alert-2.jpg?2e2be2f9) 0 0 no-repeat;
+    background: url(../images/alert-2.jpg?2e2be2f9) 0 0 no-repeat;
     background-size: 15px;
 }
 
@@ -6349,7 +6349,7 @@ ul.m-list li p.cmt {
     width: 107px;
     height: 107px;
     margin: 0 auto;
-    background: url(/assets/mobile/images/face-ok2.jpg?03a02cea) 0 0 no-repeat;
+    background: url(../images/face-ok2.jpg?03a02cea) 0 0 no-repeat;
     background-size: 100%;
 }
 
@@ -6395,7 +6395,7 @@ ul.m-list li p.cmt {
 .comments dt .ra-title {
     padding-left: 11px;
     font-size: 16px;
-    background: url(/assets/mobile/images/title_sign@2x.png?2c572358)left center no-repeat;
+    background: url(../images/title_sign@2x.png?2c572358)left center no-repeat;
     background-size: 3px 15px;
 }
 
@@ -6511,7 +6511,7 @@ ul.m-list li p.cmt {
     top: -12px;
     width: 36px;
     height: 36px;
-    background: url(/assets/mobile/images/20151111/close.png?e86b57a2) 0 0 no-repeat;
+    background: url(../images/20151111/close.png?e86b57a2) 0 0 no-repeat;
     background-size: 36px 36px;
     border-radius: 36px;
     cursor: pointer;
@@ -6525,7 +6525,7 @@ ul.m-list li p.cmt {
     bottom: 20px;
     left: 50%;
     margin-left: -74px;
-    background: url(/assets/mobile/images/20151111/duobao_button.png?7c51f0f8) 0 0 no-repeat;
+    background: url(../images/20151111/duobao_button.png?7c51f0f8) 0 0 no-repeat;
     background-size: 148px 42px;
     border-radius: 42px;
     cursor: pointer;
@@ -6652,7 +6652,7 @@ ul.m-list li p.cmt {
     display: inline-block;
     width: 13px;
     height: 13px;
-    background: url(/assets/mobile/images/icon05.jpg?0c7f53aa) center center no-repeat;
+    background: url(../images/icon05.jpg?0c7f53aa) center center no-repeat;
     background-size: 100% 100%;
     margin-right: 5px;
     margin-top: -3px;
@@ -6714,7 +6714,7 @@ ul.m-list li p.cmt {
     width: 16px;
     height: 17px;
     display: inline-block;
-    background: url(/assets/mobile/images/book-detail/shelf.png?abac1dc4) 0 0 no-repeat;
+    background: url(../images/shelf.png?abac1dc4) 0 0 no-repeat;
     background-size: 100% 100%;
     vertical-align: top;
     margin: 2px 5px 0 0;
@@ -6725,7 +6725,7 @@ ul.m-list li p.cmt {
     width: 26px;
     height: 26px;
     display: block;
-    background: url(/assets/mobile/images/book-detail/free.png?39f83756) 0 0 no-repeat;
+    background: url(../images/free.png?39f83756) 0 0 no-repeat;
     background-size: 100% 100%;
     top: 15px;
     right: 10px;
@@ -6872,7 +6872,7 @@ ul.m-list li p.cmt {
 }
 
 .w-star span {
-    background-image: url(/assets/mobile/images/icon06.jpg?b4d66609);
+    background-image: url(../images/icon06.jpg?b4d66609);
     background-size: 100% 200%;
 }
 
@@ -6919,12 +6919,12 @@ ul.m-list li p.cmt {
     float: left;
     width: 10px;
     margin-right: 5px;
-    background-image: url(/assets/mobile/images/book-detail/star-light.png?13871f2f);
+    background-image: url(../images/book-detail/star-light.png?13871f2f);
     background-size: 100% 100%;
 }
 
 .w-star2 span.no {
-    background-image: url(/assets/mobile/images/book-detail/star-dark.png?f04ab3f4);
+    background-image: url(../images/book-detail/star-dark.png?f04ab3f4);
     background-size: 100% 100%;
 }
 
@@ -7117,7 +7117,7 @@ ul.m-list li p.cmt {
 
 .m-openfalse {
     display: none;
-    background: url(/assets/mobile/images/openfail.png?07a1b1d2) no-repeat 0 0;
+    background: url(../images/openfail.png?07a1b1d2) no-repeat 0 0;
     width: 254px;
     height: 160px;
     background-size: 254px 160px;
@@ -7164,7 +7164,7 @@ ul.m-list li p.cmt {
     display: block;
     width: 25px;
     height: 15px;
-    background: url(/assets/mobile/images/book-detail/icon-recent.png?48ed274f) 0 0 no-repeat;
+    background: url(../images/icon-recent.png?48ed274f) 0 0 no-repeat;
     background-size: 100% 100%;
     text-indent: -9999px;
 }
@@ -7201,7 +7201,7 @@ ul.m-list li p.cmt {
     right: 0;
     width: 9px;
     height: 6px;
-    background: url(/assets/mobile/images/book-detail/arrow-down.png?b7dfb88c) 0 0 no-repeat;
+    background: url(../images/arrow-down.png?b7dfb88c) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7233,12 +7233,12 @@ ul.m-list li p.cmt {
     width: 9px;
     height: 10px;
     display: block;
-    background: url(/assets/mobile/images/book-detail/arrow-up.png?12603ac3) 0 0 no-repeat;
+    background: url(../images/arrow-up.png?12603ac3) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-book-title .reverse i {
-    background-image: url(/assets/mobile/images/book-detail/arrow-up-reverse.png?13981947);
+    background-image: url(../images/arrow-up-reverse.png?13981947);
 }
 
 .m-book-title .comment {
@@ -7252,7 +7252,7 @@ ul.m-list li p.cmt {
     height: 13px;
     display: inline-block;
     vertical-align: middle;
-    background: url(/assets/mobile/images/book-detail/replay.png?e6b87b46) 0 0 no-repeat;
+    background: url(../images/replay.png?e6b87b46) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7330,7 +7330,7 @@ ul.m-list li p.cmt {
     position: absolute;
     top: 3px;
     right: 0;
-    background: url(/assets/mobile/images/book-detail/icon-dispaid.png?e5fb30a2) 0 0 no-repeat;
+    background: url(../images/icon-dispaid.png?e5fb30a2) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7373,7 +7373,7 @@ ul.m-list li p.cmt {
     vertical-align: middle;
     display: inline-block;
     margin-left: 3px;
-    background: url(/assets/mobile/images/book-detail/arrow-right.png?f11cbfe1) 0 0 no-repeat;
+    background: url(../images/arrow-right.png?f11cbfe1) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7439,7 +7439,7 @@ ul.m-list li p.cmt {
     left: 2.2em;
     width: 9px;
     height: 6px;
-    background: url(/assets/mobile/images/book-detail/arrow-down.png?b7dfb88c) 0 0 no-repeat;
+    background: url(../images/arrow-down.png?b7dfb88c) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7492,13 +7492,13 @@ ul.m-list li p.cmt {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: url(/assets/mobile/images/book-detail/star-light.png?13871f2f) 0 0 no-repeat;
+    background: url(/../images/star-light.png?13871f2f) 0 0 no-repeat;
     background-size: 100% 100%;
     margin-left: 12px;
 }
 
 .m-book-comment .comment-box .star span.no {
-    background: url(/assets/mobile/images/book-detail/star-dark.png?f04ab3f4) 0 0 no-repeat;
+    background: url(../images/star-dark.png?f04ab3f4) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7537,7 +7537,7 @@ ul.m-list li p.cmt {
     vertical-align: middle;
     display: inline-block;
     margin-left: 3px;
-    background: url(/assets/mobile/images/book-detail/arrow-right.png?f11cbfe1) 0 0 no-repeat;
+    background: url(../images/arrow-right.png?f11cbfe1) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7599,7 +7599,7 @@ ul.m-list li p.cmt {
     vertical-align: middle;
     display: inline-block;
     margin-left: 3px;
-    background: url(/assets/mobile/images/book-detail/arrow-right.png?f11cbfe1) 0 0 no-repeat;
+    background: url(../images/arrow-right.png?f11cbfe1) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7648,7 +7648,7 @@ ul.m-list li p.cmt {
     left: 2.2em;
     width: 9px;
     height: 6px;
-    background: url(/assets/mobile/images/book-detail/arrow-down.png?b7dfb88c) 0 0 no-repeat;
+    background: url(../images/arrow-down.png?b7dfb88c) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7676,7 +7676,7 @@ ul.m-list li p.cmt {
 }
 
 .m-bestcomment h3 {
-    background: url(/assets/mobile/images/common/sep.png?4fac71ae) 15px 15px no-repeat;
+    background: url(../images/sep.png?4fac71ae) 15px 15px no-repeat;
     background-size: 3px 16px;
     text-indent: 10px;
 }
@@ -7790,7 +7790,7 @@ ul.m-list li p.cmt {
     height: 13px;
     display: inline-block;
     vertical-align: middle;
-    background: url(/assets/mobile/images/book-detail/replay.png?e6b87b46) 0 0 no-repeat;
+    background: url(../images/replay.png?e6b87b46) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
@@ -7840,13 +7840,13 @@ ul.m-list li p.cmt {
     display: inline-block;
     width: 10px;
     height: 10px;
-    background: url(/assets/mobile/images/book-detail/star-light.png?13871f2f) 0 0 no-repeat;
+    background: url(../images/star-light.png?13871f2f) 0 0 no-repeat;
     background-size: 100% 100%;
 }
 
 .m-bestcomment .star span.no,
 .m-allcomment .star span.no {
-    background-image: url(/assets/mobile/images/book-detail/star-dark.png?f04ab3f4);
+    background-image: url(../images/star-dark.png?f04ab3f4);
     background-size: 100% 100%;
 }
 

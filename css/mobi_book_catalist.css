@@ -33,11 +33,11 @@
 }
 
 .m-catalist-big .curbiglist .icon-down {
-    background-image: url(/assets/mobile/images/book-catalist/arrow-down-grey.png?54863b72);
+    background-image: url(../images/arrow-down-grey.png?54863b72);
 }
 
 .m-catalist-big .curbiglist .icon-up {
-    background-image: url(/assets/mobile/images/book-catalist/arrow-up-grey.png?f6f9aa53);
+    background-image: url(../images/arrow-up-grey.png?f6f9aa53);
 }
 
 .m-catalist-big .list {

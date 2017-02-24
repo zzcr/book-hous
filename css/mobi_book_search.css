@@ -222,7 +222,7 @@
     height: 28px;
     border: none;
     vertical-align: middle;
-    background: url(/assets/mobile/images/search/search.png?2083f1a1) center center no-repeat;
+    background: url(../images/search.png?2083f1a1) center center no-repeat;
     background-size: contain;
     text-indent: -9999px;
     position: absolute;
@@ -284,12 +284,12 @@
 }
 
 .m-search-key dd a em.new {
-    background: url(/assets/mobile/images/search/new.png?0f1d9630);
+    background: url(../images/new.png?0f1d9630);
     background-size: contain;
 }
 
 .m-search-key dd a em.hot {
-    background: url(/assets/mobile/images/search/hot.png?b7bf3b4d);
+    background: url(../images/hot.png?b7bf3b4d);
     background-size: contain;
 }
 
@@ -312,7 +312,7 @@
 .m-historykey dt .clear {
     display: block;
     float: right;
-    background: url(/assets/mobile/images/search/clear.png?bf278b1f) no-repeat;
+    background: url(../images/clear.png?bf278b1f) no-repeat;
     background-size: contain;
     width: 10px;
     height: 13px;
@@ -320,7 +320,7 @@
 }
 
 .m-historykey dt .clear.disabled {
-    background: url(/assets/mobile/images/search/clear.png?bf278b1f) no-repeat;
+    background: url(../images/clear.png?bf278b1f) no-repeat;
     background-size: contain;
 }
 
@@ -399,7 +399,7 @@
 }
 
 .m-search-book ul li.children em {
-    background: url(/assets/mobile/images/search/search-1.png?8c0b419d) center center no-repeat;
+    background: url(../images/search-1.png?8c0b419d) center center no-repeat;
     width: 14px;
     height: 14px;
     background-size: contain;
